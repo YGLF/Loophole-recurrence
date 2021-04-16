@@ -1,2 +1,2 @@
-# Recurrence-of-common-vulnerabilities
+# Loophole recurrence
 常见的漏洞复现
